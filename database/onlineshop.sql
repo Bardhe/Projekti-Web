@@ -360,8 +360,8 @@ CREATE TABLE `user_info` (
 
 INSERT INTO `user_info` (`user_id`, `first_name`, `last_name`, `email`, `password`, `mobile`, `address1`, `address2`) VALUES
 (12, 'Bardh', 'Zajmi', 'zajmi.bardh@gmail.com', 'aksjlgxcaczx12837@@!!', '45606607', '123456789', 'Prishtine'),
-(14, 'Jeta', 'Jeta', 'jeta123@gmail.com', '123456788', '6526436723', 's,dc wfjvnvn', 'b efhfhvvbr')
-(15, 'hemu', 'ajhgdg', 'puneethreddy951@gmail.com', '346778', '536487276', ',mdnbca', 'asdmhmhvbv'),
+(14, 'Jeta', 'Jeta', 'jeta123@gmail.com', '123456788', '6526436723', 's,dc wfjvnvn', 'b efhfhvvbr'),
+(15, 'hemu', 'ajhgdg', 'paskjd@gmail.com', '346778', '536487276', ',mdnbca', 'asdmhmhvbv'),
 (16, 'venky', 'vs', 'venkey@gmail.com', '1234534', '9877654334', 'snhdgvajfehyfygv', 'asdjbhfkeur'),
 (19, 'abhishek', 'bs', 'abhishekbs@gmail.com', 'asdcsdcc', '9871236534', 'Kosove', 'hassan'),
 (21, 'prajval', 'mcta', 'prajvalmcta@gmail.com', '1234545662', '202-555-01', 'Kosove', 'Prishtine'),
