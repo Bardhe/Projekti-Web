@@ -365,7 +365,7 @@ INSERT INTO `user_info` (`user_id`, `first_name`, `last_name`, `email`, `passwor
 (16, 'venky', 'vs', 'venkey@gmail.com', '1234534', '9877654334', 'snhdgvajfehyfygv', 'asdjbhfkeur'),
 (19, 'abhishek', 'bs', 'abhishekbs@gmail.com', 'asdcsdcc', '9871236534', 'Kosove', 'hassan'),
 (21, 'prajval', 'mcta', 'prajvalmcta@gmail.com', '1234545662', '202-555-01', 'Kosove', 'Prishtine'),
-(22, 'puneeth', 'v', 'hemu@gmail.com', '1234534', '9877654334', 'snhdgvajfehyfygv', 'asdjbhfkeur'),
+(22, 'psadjth', 'v', 'hsadkjhu@gmail.com', '1234534', '9877654334', 'snhdgvajfehyfygv', 'asdjbhfkeur'),
 (23, 'hemanth', 'reddy', 'hemanth@gmail.com', 'a;lskjdh@123', '9876543234', 'Kosove', 'Prishtine'),
 (24, 'newuser', 'user', 'newuser@gmail.com', 'kalsjd@123', '9535688928', 'Kosove', 'Prishtine'),
 (25, 'otheruser', 'user', 'otheruser@gmail.com', 'al;skdh@123', '9535688928', 'Kosove', 'Prishtine');
@@ -409,7 +409,7 @@ INSERT INTO `user_info_backup` (`user_id`, `first_name`, `last_name`, `email`, `
 (19, 'abhishek', 'bs', 'abhishekbs@gmail.com', 'asdcsdcc', '9871236534', 'Kosove', 'hassan'),
 (20, 'pramod', 'vh', 'pramod@gmail.com', '124335353', '9767645653', 'ksbdfcdf', 'sjrgrevgsib'),
 (21, 'prajval', 'mcta', 'prajvalmcta@gmail.com', '1234545662', '202-555-01', 'Kosove', 'Prishtine'),
-(22, 'puneeth', 'v', 'hemu@gmail.com', '1234534', '9877654334', 'snhdgvajfehyfygv', 'asdjbhfkeur'),
+(22, 'puasdkjh', 'v', 'hasdkju@gmail.com', '1234534', '9877654334', 'snhdgvajfehyfygv', 'asdjbhfkeur'),
 (23, 'hemanth', 'reddy', 'hemanth@gmail.com', 'a;lskjdh@123', '9876543234', 'Kosove', 'Prishtine'),
 (24, 'newuser', 'user', 'newuser@gmail.com', 'kalsjd@123', '9535688928', 'Kosove', 'Prishtine'),
 (25, 'otheruser', 'user', 'otheruser@gmail.com', 'al;skdh@123', '9535688928', 'Kosove', 'Prishtine');
